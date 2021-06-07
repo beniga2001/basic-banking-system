@@ -53,8 +53,9 @@ td{
 
 
 </head>
-<body style="background-image: url('background 6.jpg'); background-repeat: no-repeat;
+<body style="background-image: url('6.jpeg'); background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
     width: 100%;  background-position:  40px 60px;">
 <?php
     require 'conf.php';
