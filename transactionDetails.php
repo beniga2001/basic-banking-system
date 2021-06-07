@@ -39,7 +39,7 @@
 
     </style>
 </head>
-<body style="background-color: #dbe9b2">
+<body style="background-color: Lightgray">
 <header>
   <?php
   include 'navbar.php';
