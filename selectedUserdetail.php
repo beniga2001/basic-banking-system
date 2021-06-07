@@ -118,7 +118,7 @@ label {
 </head>
 
 
-<body style="background-color: #d8b7c8;">
+<body style="background-color: Lightgreen;">
 <?php
   include 'navbar.php';
   ?></header>
