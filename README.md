@@ -1,2 +1,2 @@
-# spark-foundation-internship
+# sparks-foundation-internship
 Dynamic Banking System
